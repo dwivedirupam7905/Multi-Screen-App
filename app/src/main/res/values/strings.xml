@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Multi Screen</string>
+    <string name="heading">Welcome To Royalty Restaurant</string>
+    <string name="menu">Item1</string>
+    <string name="menu2">Item2</string>
+    <string name="menu3">Item3</string>
+    <string name="btn">Place Order</string>
+    <string name="img">image</string>
+    <string name="choice">What would you like to have?</string>
+    <string name="add">Add Data</string>
+    <string name="his">History</string>
+</resources>
